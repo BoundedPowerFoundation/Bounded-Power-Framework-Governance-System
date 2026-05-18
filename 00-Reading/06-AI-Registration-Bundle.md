@@ -22,7 +22,7 @@ authority, just follow these three steps:
        Springfield, MA Public Schools
        Acme Health System
      
-     You can also ask the AI for a list of power-bearing authorities from a paticular area for you to select from
+     You can also ask the AI for a list of power-bearing authorities from a paticular area for you to select from.
 
      Then send.
 
