@@ -1,4 +1,4 @@
-# Old .Txt Deleted. ✓
+# Mary and Sparky
 
 Old .txt deleted. ✓
 
@@ -10,8 +10,8 @@ You said: so you left the authors of this very serious project as "Mary & Sparky
 
 is it evident that "Sparky" is AI?
 
-Claude responded: Ha.Ha. Fair point. Let me check what's actually in the Orientation file
-right. So yes — "Mary and Sparky" is sitting right there on the title page of a serious
+Claude responded: *Ha.Ha*. Fair point. Let me check what's actually in the Orientation file
+right. So yes — *"Mary and Sparky"* is sitting right there on the title page of a serious
 governance framework. And no, it's not obvious that Sparky is AI — it just sounds like a
 person with a nickname. Which is arguably fine.
 
