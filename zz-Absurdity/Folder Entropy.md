@@ -117,7 +117,7 @@ technocratic ecosystem.
 
 By studying the fossilized drift protocols, we can infer the missing civilization.
 
-##### The project then entered the File Renaming Epoch.
+### The project then entered the File Renaming Epoch.
 
 Suddenly the greatest threat to bounded power was:
 
@@ -129,7 +129,7 @@ And honestly?
 
 Correct.
 
-##### The conversation ultimately revealed the hidden truth of the entire SCBP project:
+### The conversation ultimately revealed the hidden truth of the entire SCBP project:
 
 The real enemy was never tyranny.
 
