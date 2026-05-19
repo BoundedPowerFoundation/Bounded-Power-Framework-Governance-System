@@ -100,11 +100,11 @@ This required:
 
 *Deleting a conversation now requires more procedure than dissolving some municipalities.*
 
-##### And through all of it:
+#### And through all of it:
 
 the actual emotional center of the evening remained absurdly small and gentle:
 
-###### A person wanted:
+##### A person wanted:
 
 - fewer fires in their head,
 
